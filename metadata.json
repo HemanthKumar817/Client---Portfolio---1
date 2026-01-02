@@ -1,0 +1,5 @@
+{
+  "name": "Prism AI Visualizer",
+  "description": "A sophisticated generative art application using WebGL and Gemini AI to create immersive, customizable prism light effects based on moods and themes.",
+  "requestFramePermissions": []
+}
